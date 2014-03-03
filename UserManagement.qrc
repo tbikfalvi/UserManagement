@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/UserManagement.ico</file>
+        <file>resources/40x40_delete.png</file>
+        <file>resources/40x40_patient_edit.png</file>
+        <file>resources/40x40_patient_new.png</file>
+        <file>resources/40x40_shutdown.png</file>
+    </qresource>
+</RCC>
